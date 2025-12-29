@@ -21,7 +21,7 @@ export const siteContent: SiteConfigSchema = {
     id: "f28898d7-1d45-4d02-b777-c7411281c441",
     name: "Tiny Tested",
     description: "TinyTrend Insights delivers expert-driven, meticulously tested reviews and comparisons of essential baby products to empower informed parenting choices.",
-    url: "https://tiny-tested-blog.vercel.app",
+    url: "https://tinytested.blog",
     logoPath: "/logo.jpg",
     faviconPath: "/logo.jpg",
     ogImagePath: "/logo.jpg",
