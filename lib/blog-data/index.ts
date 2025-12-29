@@ -8,9 +8,11 @@ import { post as sensitive_skin_savior_why_pampers_wipes_are_a_must_have } from 
 import { post as why_mama_bear_refills_are_the_eco_friendly_game_changer_you_ } from './why-mama-bear-refills-are-the-eco-friendly-game-changer-you-.data'
 import { post as burp_cloths_that_save_the_day_mess_free_feedings_made_easy } from './burp-cloths-that-save-the-day-mess-free-feedings-made-easy.data'
 import { post as numnum_spoons_set_the_ultimate_transition_tool_for_tiny_eate } from './numnum-spoons-set-the-ultimate-transition-tool-for-tiny-eate.data'
+import { post as elevate_mealtime_magic_why_the_cosco_highchair_is_a_parent_s } from './elevate-mealtime-magic-why-the-cosco-highchair-is-a-parent-s.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  elevate_mealtime_magic_why_the_cosco_highchair_is_a_parent_s,
   numnum_spoons_set_the_ultimate_transition_tool_for_tiny_eate,
   burp_cloths_that_save_the_day_mess_free_feedings_made_easy,
   why_mama_bear_refills_are_the_eco_friendly_game_changer_you_,
