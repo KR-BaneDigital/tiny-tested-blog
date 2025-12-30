@@ -11,9 +11,11 @@ import { post as numnum_spoons_set_the_ultimate_transition_tool_for_tiny_eate } 
 import { post as elevate_mealtime_magic_why_the_cosco_highchair_is_a_parent_s } from './elevate-mealtime-magic-why-the-cosco-highchair-is-a-parent-s.data'
 import { post as freedom_to_move_the_hands_free_bra_that_redefines_comfort } from './freedom-to-move-the-hands-free-bra-that-redefines-comfort.data'
 import { post as travel_smart_how_the_gate_check_bag_protects_your_gear_with_ } from './travel-smart-how-the-gate-check-bag-protects-your-gear-with-.data'
+import { post as grow_and_go_car_seat_the_ultimate_game_changer_for_safe_trav } from './grow-and-go-car-seat-the-ultimate-game-changer-for-safe-trav.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  grow_and_go_car_seat_the_ultimate_game_changer_for_safe_trav,
   travel_smart_how_the_gate_check_bag_protects_your_gear_with_,
   freedom_to_move_the_hands_free_bra_that_redefines_comfort,
   elevate_mealtime_magic_why_the_cosco_highchair_is_a_parent_s,
