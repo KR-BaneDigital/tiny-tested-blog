@@ -24,9 +24,11 @@ import { post as graco_slimfit_car_seat_the_space_saving_safety_solution_you_ } 
 import { post as stay_one_step_ahead_the_forehead_thermometer_that_transforms } from './stay-one-step-ahead-the-forehead-thermometer-that-transforms.data'
 import { post as diaper_genie_pail_your_ultimate_secret_to_odor_free_diaper_d } from './diaper-genie-pail-your-ultimate-secret-to-odor-free-diaper-d.data'
 import { post as alvababy_cloth_diapers_the_eco_friendly_game_changer_for_par } from './alvababy-cloth-diapers-the-eco-friendly-game-changer-for-par.data'
+import { post as fortiflora_probiotics_unlock_your_gut_s_secret_to_vibrant_he } from './fortiflora-probiotics-unlock-your-gut-s-secret-to-vibrant-he.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  fortiflora_probiotics_unlock_your_gut_s_secret_to_vibrant_he,
   alvababy_cloth_diapers_the_eco_friendly_game_changer_for_par,
   diaper_genie_pail_your_ultimate_secret_to_odor_free_diaper_d,
   stay_one_step_ahead_the_forehead_thermometer_that_transforms,
