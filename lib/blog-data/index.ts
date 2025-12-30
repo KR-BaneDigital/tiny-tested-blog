@@ -10,9 +10,11 @@ import { post as burp_cloths_that_save_the_day_mess_free_feedings_made_easy } fr
 import { post as numnum_spoons_set_the_ultimate_transition_tool_for_tiny_eate } from './numnum-spoons-set-the-ultimate-transition-tool-for-tiny-eate.data'
 import { post as elevate_mealtime_magic_why_the_cosco_highchair_is_a_parent_s } from './elevate-mealtime-magic-why-the-cosco-highchair-is-a-parent-s.data'
 import { post as freedom_to_move_the_hands_free_bra_that_redefines_comfort } from './freedom-to-move-the-hands-free-bra-that-redefines-comfort.data'
+import { post as travel_smart_how_the_gate_check_bag_protects_your_gear_with_ } from './travel-smart-how-the-gate-check-bag-protects-your-gear-with-.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  travel_smart_how_the_gate_check_bag_protects_your_gear_with_,
   freedom_to_move_the_hands_free_bra_that_redefines_comfort,
   elevate_mealtime_magic_why_the_cosco_highchair_is_a_parent_s,
   numnum_spoons_set_the_ultimate_transition_tool_for_tiny_eate,
