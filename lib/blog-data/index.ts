@@ -18,9 +18,11 @@ import { post as birdseye_cloth_diapers_the_eco_friendly_change_every_parent_ } 
 import { post as mess_free_mealtime_magic_bumkins_sleeved_bib_review } from './mess-free-mealtime-magic-bumkins-sleeved-bib-review.data'
 import { post as unleash_comfort_the_nursing_bras_set_redefining_motherhood_e } from './unleash-comfort-the-nursing-bras-set-redefining-motherhood-e.data'
 import { post as comotomo_baby_bottle_the_game_changer_for_stress_free_feedin } from './comotomo-baby-bottle-the-game-changer-for-stress-free-feedin.data'
+import { post as medela_harmony_pump_your_secret_to_effortless_breastfeeding_ } from './medela-harmony-pump-your-secret-to-effortless-breastfeeding-.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  medela_harmony_pump_your_secret_to_effortless_breastfeeding_,
   comotomo_baby_bottle_the_game_changer_for_stress_free_feedin,
   unleash_comfort_the_nursing_bras_set_redefining_motherhood_e,
   mess_free_mealtime_magic_bumkins_sleeved_bib_review,
