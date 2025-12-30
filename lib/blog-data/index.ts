@@ -21,9 +21,11 @@ import { post as comotomo_baby_bottle_the_game_changer_for_stress_free_feedin } 
 import { post as medela_harmony_pump_your_secret_to_effortless_breastfeeding_ } from './medela-harmony-pump-your-secret-to-effortless-breastfeeding-.data'
 import { post as snap_n_go_ex_revolutionize_your_travel_with_effortless_conve } from './snap-n-go-ex-revolutionize-your-travel-with-effortless-conve.data'
 import { post as graco_slimfit_car_seat_the_space_saving_safety_solution_you_ } from './graco-slimfit-car-seat-the-space-saving-safety-solution-you-.data'
+import { post as stay_one_step_ahead_the_forehead_thermometer_that_transforms } from './stay-one-step-ahead-the-forehead-thermometer-that-transforms.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  stay_one_step_ahead_the_forehead_thermometer_that_transforms,
   graco_slimfit_car_seat_the_space_saving_safety_solution_you_,
   snap_n_go_ex_revolutionize_your_travel_with_effortless_conve,
   medela_harmony_pump_your_secret_to_effortless_breastfeeding_,
