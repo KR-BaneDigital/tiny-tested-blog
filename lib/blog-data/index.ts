@@ -16,9 +16,11 @@ import { post as unlock_radiant_hair_cleansing_shampoo_that_restores_your_shi } 
 import { post as say_goodbye_to_stinky_diaper_days_ubbi_diaper_pail_review } from './say-goodbye-to-stinky-diaper-days-ubbi-diaper-pail-review.data'
 import { post as birdseye_cloth_diapers_the_eco_friendly_change_every_parent_ } from './birdseye-cloth-diapers-the-eco-friendly-change-every-parent-.data'
 import { post as mess_free_mealtime_magic_bumkins_sleeved_bib_review } from './mess-free-mealtime-magic-bumkins-sleeved-bib-review.data'
+import { post as unleash_comfort_the_nursing_bras_set_redefining_motherhood_e } from './unleash-comfort-the-nursing-bras-set-redefining-motherhood-e.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  unleash_comfort_the_nursing_bras_set_redefining_motherhood_e,
   mess_free_mealtime_magic_bumkins_sleeved_bib_review,
   birdseye_cloth_diapers_the_eco_friendly_change_every_parent_,
   say_goodbye_to_stinky_diaper_days_ubbi_diaper_pail_review,
