@@ -29,9 +29,11 @@ import { post as freshness_on_the_go_unleash_comfort_with_lume_wipes_review } fr
 import { post as say_goodbye_to_odors_the_diaper_pail_bags_every_parent_needs } from './say-goodbye-to-odors-the-diaper-pail-bags-every-parent-needs.data'
 import { post as stay_dry_and_confident_the_livdry_diapers_review_you_can_t_m } from './stay-dry-and-confident-the-livdry-diapers-review-you-can-t-m.data'
 import { post as diaper_pail_bags_the_odor_busting_game_changer_every_parent_ } from './diaper-pail-bags-the-odor-busting-game-changer-every-parent-.data'
+import { post as snack_smarter_how_the_squeasy_snacker_pouch_transforms_on_th } from './snack-smarter-how-the-squeasy-snacker-pouch-transforms-on-th.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  snack_smarter_how_the_squeasy_snacker_pouch_transforms_on_th,
   diaper_pail_bags_the_odor_busting_game_changer_every_parent_,
   stay_dry_and_confident_the_livdry_diapers_review_you_can_t_m,
   say_goodbye_to_odors_the_diaper_pail_bags_every_parent_needs,
