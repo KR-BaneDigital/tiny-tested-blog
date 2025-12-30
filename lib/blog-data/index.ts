@@ -20,9 +20,11 @@ import { post as unleash_comfort_the_nursing_bras_set_redefining_motherhood_e } 
 import { post as comotomo_baby_bottle_the_game_changer_for_stress_free_feedin } from './comotomo-baby-bottle-the-game-changer-for-stress-free-feedin.data'
 import { post as medela_harmony_pump_your_secret_to_effortless_breastfeeding_ } from './medela-harmony-pump-your-secret-to-effortless-breastfeeding-.data'
 import { post as snap_n_go_ex_revolutionize_your_travel_with_effortless_conve } from './snap-n-go-ex-revolutionize-your-travel-with-effortless-conve.data'
+import { post as graco_slimfit_car_seat_the_space_saving_safety_solution_you_ } from './graco-slimfit-car-seat-the-space-saving-safety-solution-you-.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  graco_slimfit_car_seat_the_space_saving_safety_solution_you_,
   snap_n_go_ex_revolutionize_your_travel_with_effortless_conve,
   medela_harmony_pump_your_secret_to_effortless_breastfeeding_,
   comotomo_baby_bottle_the_game_changer_for_stress_free_feedin,
