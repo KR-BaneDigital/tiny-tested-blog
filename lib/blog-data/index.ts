@@ -27,9 +27,11 @@ import { post as alvababy_cloth_diapers_the_eco_friendly_game_changer_for_par } 
 import { post as fortiflora_probiotics_unlock_your_gut_s_secret_to_vibrant_he } from './fortiflora-probiotics-unlock-your-gut-s-secret-to-vibrant-he.data'
 import { post as freshness_on_the_go_unleash_comfort_with_lume_wipes_review } from './freshness-on-the-go-unleash-comfort-with-lume-wipes-review.data'
 import { post as say_goodbye_to_odors_the_diaper_pail_bags_every_parent_needs } from './say-goodbye-to-odors-the-diaper-pail-bags-every-parent-needs.data'
+import { post as stay_dry_and_confident_the_livdry_diapers_review_you_can_t_m } from './stay-dry-and-confident-the-livdry-diapers-review-you-can-t-m.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  stay_dry_and_confident_the_livdry_diapers_review_you_can_t_m,
   say_goodbye_to_odors_the_diaper_pail_bags_every_parent_needs,
   freshness_on_the_go_unleash_comfort_with_lume_wipes_review,
   fortiflora_probiotics_unlock_your_gut_s_secret_to_vibrant_he,
