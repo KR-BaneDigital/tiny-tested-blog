@@ -13,9 +13,11 @@ import { post as freedom_to_move_the_hands_free_bra_that_redefines_comfort } fro
 import { post as travel_smart_how_the_gate_check_bag_protects_your_gear_with_ } from './travel-smart-how-the-gate-check-bag-protects-your-gear-with-.data'
 import { post as grow_and_go_car_seat_the_ultimate_game_changer_for_safe_trav } from './grow-and-go-car-seat-the-ultimate-game-changer-for-safe-trav.data'
 import { post as unlock_radiant_hair_cleansing_shampoo_that_restores_your_shi } from './unlock-radiant-hair-cleansing-shampoo-that-restores-your-shi.data'
+import { post as say_goodbye_to_stinky_diaper_days_ubbi_diaper_pail_review } from './say-goodbye-to-stinky-diaper-days-ubbi-diaper-pail-review.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  say_goodbye_to_stinky_diaper_days_ubbi_diaper_pail_review,
   unlock_radiant_hair_cleansing_shampoo_that_restores_your_shi,
   grow_and_go_car_seat_the_ultimate_game_changer_for_safe_trav,
   travel_smart_how_the_gate_check_bag_protects_your_gear_with_,
