@@ -31,9 +31,11 @@ import { post as stay_dry_and_confident_the_livdry_diapers_review_you_can_t_m } 
 import { post as diaper_pail_bags_the_odor_busting_game_changer_every_parent_ } from './diaper-pail-bags-the-odor-busting-game-changer-every-parent-.data'
 import { post as snack_smarter_how_the_squeasy_snacker_pouch_transforms_on_th } from './snack-smarter-how-the-squeasy-snacker-pouch-transforms-on-th.data'
 import { post as elevate_your_comfort_the_magic_of_silver_nursing_cups_review } from './elevate-your-comfort-the-magic-of-silver-nursing-cups-review.data'
+import { post as unlock_the_magic_of_curls_a_review_of_kids_curl_shampoo } from './unlock-the-magic-of-curls-a-review-of-kids-curl-shampoo.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  unlock_the_magic_of_curls_a_review_of_kids_curl_shampoo,
   elevate_your_comfort_the_magic_of_silver_nursing_cups_review,
   snack_smarter_how_the_squeasy_snacker_pouch_transforms_on_th,
   diaper_pail_bags_the_odor_busting_game_changer_every_parent_,
