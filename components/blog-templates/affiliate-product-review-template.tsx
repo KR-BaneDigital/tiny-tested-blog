@@ -191,7 +191,7 @@ export function AffiliateProductReviewTemplate({ post }: AffiliateProductReviewT
           </div>
 
           <div className="grid md:grid-cols-2 gap-6 lg:gap-8">
-            {typeData.whatMakesDifferent.map((item, index) => {
+            {(typeData.whatMakesDifferent || []).map((item, index) => {
               const IconComponent = iconMap[item.icon] || Sparkles
               return (
                 <Card key={index} className="p-8 bg-card border-2 border-primary/10">
@@ -279,7 +279,7 @@ export function AffiliateProductReviewTemplate({ post }: AffiliateProductReviewT
           </div>
 
           <div className="space-y-6 max-w-4xl mx-auto">
-            {typeData.ingredients.map((ingredient, index) => (
+            {(typeData.ingredients || []).map((ingredient, index) => (
               <Card key={index} className="p-8 border-l-4 border-l-primary bg-card">
                 <h3 className="font-bold text-2xl mb-4 flex items-center gap-3">
                   <Check className="size-6 text-primary" />
@@ -353,7 +353,7 @@ export function AffiliateProductReviewTemplate({ post }: AffiliateProductReviewT
           </div>
 
           <div className="space-y-6 mb-12">
-            {typeData.testingResults.map((item, index) => (
+            {(typeData.testingResults || []).map((item, index) => (
               <div key={index}>
                 <div className="flex items-center justify-between mb-2">
                   <div>
@@ -397,7 +397,7 @@ export function AffiliateProductReviewTemplate({ post }: AffiliateProductReviewT
                 <h3 className="font-heading text-3xl font-bold">What We Love</h3>
               </div>
               <ul className="space-y-5">
-                {typeData.pros.map((pro, index) => (
+                {(typeData.pros || []).map((pro, index) => (
                   <li key={index} className="flex items-start gap-4 text-foreground/90">
                     <Check className="size-6 text-green-600 shrink-0 mt-0.5" />
                     <span className="text-base leading-relaxed">{pro}</span>
@@ -415,7 +415,7 @@ export function AffiliateProductReviewTemplate({ post }: AffiliateProductReviewT
                 <h3 className="font-heading text-3xl font-bold">Room for Improvement</h3>
               </div>
               <ul className="space-y-5">
-                {typeData.cons.map((con, index) => (
+                {(typeData.cons || []).map((con, index) => (
                   <li key={index} className="flex items-start gap-4 text-foreground/90">
                     <X className="size-6 text-destructive shrink-0 mt-0.5" />
                     <span className="text-base leading-relaxed">{con}</span>
@@ -487,7 +487,7 @@ export function AffiliateProductReviewTemplate({ post }: AffiliateProductReviewT
                 Perfect For:
               </h3>
               <ul className="space-y-4">
-                {typeData.whoShouldBuy.perfectFor.map((item, index) => (
+                {(typeData.whoShouldBuy?.perfectFor || []).map((item, index) => (
                   <li key={index} className="flex items-start gap-3 text-foreground/90">
                     <Check className="size-5 text-green-600 shrink-0 mt-0.5" />
                     <span className="text-base leading-relaxed">{item}</span>
@@ -504,7 +504,7 @@ export function AffiliateProductReviewTemplate({ post }: AffiliateProductReviewT
                 Not Ideal For:
               </h3>
               <ul className="space-y-4">
-                {typeData.whoShouldBuy.notIdealFor.map((item, index) => (
+                {(typeData.whoShouldBuy?.notIdealFor || []).map((item, index) => (
                   <li key={index} className="flex items-start gap-3 text-foreground/90">
                     <X className="size-5 text-red-600 shrink-0 mt-0.5" />
                     <span className="text-base leading-relaxed">{item}</span>
@@ -525,7 +525,7 @@ export function AffiliateProductReviewTemplate({ post }: AffiliateProductReviewT
           </div>
 
           <div className="grid gap-6">
-            {typeData.howToUse.map((item, index) => (
+            {(typeData.howToUse || []).map((item, index) => (
               <Card key={index} className="p-8 bg-card border-2 border-primary/10">
                 <div className="flex items-start gap-5">
                   <div className="size-16 rounded-xl bg-primary text-primary-foreground flex items-center justify-center font-bold text-3xl flex-shrink-0">
@@ -560,7 +560,7 @@ export function AffiliateProductReviewTemplate({ post }: AffiliateProductReviewT
           </div>
 
           <div className="grid lg:grid-cols-3 gap-8">
-            {typeData.customerReviews.map((review, index) => (
+            {(typeData.customerReviews || []).map((review, index) => (
               <Card key={index} className="p-8 bg-card border-2 border-muted/20">
                 <div className="flex items-start justify-between mb-4">
                   <div>
@@ -606,7 +606,7 @@ export function AffiliateProductReviewTemplate({ post }: AffiliateProductReviewT
           </div>
 
           <div className="space-y-6 max-w-4xl mx-auto">
-            {typeData.faq.map((item, index) => (
+            {(typeData.faq || []).map((item, index) => (
               <Card key={index} className="p-8 bg-card border-2 border-muted/10">
                 <h3 className="font-bold text-2xl mb-4 text-foreground">{item.question}</h3>
                 <p className="text-muted-foreground leading-relaxed text-base">{item.answer}</p>
