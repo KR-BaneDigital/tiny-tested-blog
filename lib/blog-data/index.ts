@@ -39,9 +39,11 @@ import { post as stay_confident_and_dry_my_honest_review_of_poise_pads } from '.
 import { post as peace_of_mind_why_infant_optics_monitor_is_the_ultimate_baby } from './peace-of-mind-why-infant-optics-monitor-is-the-ultimate-baby.data'
 import { post as travel_smart_with_chicco_bravo_the_ultimate_parenting_game_c } from './travel-smart-with-chicco-bravo-the-ultimate-parenting-game-c.data'
 import { post as elevate_your_nursing_journey_the_pillow_that_transforms_feed } from './elevate-your-nursing-journey-the-pillow-that-transforms-feed.data'
+import { post as soft_on_baby_easy_on_the_planet_cloth_diapers_pack_review } from './soft-on-baby-easy-on-the-planet-cloth-diapers-pack-review.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  soft_on_baby_easy_on_the_planet_cloth_diapers_pack_review,
   elevate_your_nursing_journey_the_pillow_that_transforms_feed,
   travel_smart_with_chicco_bravo_the_ultimate_parenting_game_c,
   peace_of_mind_why_infant_optics_monitor_is_the_ultimate_baby,
