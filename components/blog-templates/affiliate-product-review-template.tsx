@@ -77,7 +77,7 @@ export function AffiliateProductReviewTemplate({ post }: AffiliateProductReviewT
             {/* Left Side - Stats */}
             <div className="space-y-8">
               <div className="grid grid-cols-2 gap-3 sm:gap-4 lg:gap-6">
-                {typeData.stats.map((stat, index) => (
+                {typeData.stats.filter(stat => stat && stat.value && stat.label).map((stat, index) => (
                   <div key={index} className="bg-card border-2 border-primary/20 rounded-2xl p-4 sm:p-6 text-center hover:border-primary/40 transition-colors shadow-lg">
                     <div className="text-3xl sm:text-4xl lg:text-5xl font-bold text-primary mb-2 truncate">{stat.value}</div>
                     <div className="text-xs sm:text-sm lg:text-base font-medium text-muted-foreground truncate">{stat.label}</div>
