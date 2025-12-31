@@ -50,9 +50,11 @@ import { post as elevate_your_space_the_bathroom_trash_can_that_transforms_ti } 
 import { post as muslin_burp_cloths_the_soft_touch_every_new_parent_needs } from './muslin-burp-cloths-the-soft-touch-every-new-parent-needs.data'
 import { post as depend_diapers_unlock_confidence_and_comfort_for_every_momen } from './depend-diapers-unlock-confidence-and-comfort-for-every-momen.data'
 import { post as unlock_comfort_and_style_the_muslin_nursing_cover_you_need } from './unlock-comfort-and-style-the-muslin-nursing-cover-you-need.data'
+import { post as why_mama_koala_diapers_are_the_ultimate_game_changer_for_par } from './why-mama-koala-diapers-are-the-ultimate-game-changer-for-par.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  why_mama_koala_diapers_are_the_ultimate_game_changer_for_par,
   unlock_comfort_and_style_the_muslin_nursing_cover_you_need,
   depend_diapers_unlock_confidence_and_comfort_for_every_momen,
   muslin_burp_cloths_the_soft_touch_every_new_parent_needs,
