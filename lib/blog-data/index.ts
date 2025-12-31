@@ -37,9 +37,11 @@ import { post as why_huggies_newborn_diapers_are_the_ultimate_comfort_for_you } 
 import { post as stay_dry_and_confident_nursing_pads_that_change_the_game } from './stay-dry-and-confident-nursing-pads-that-change-the-game.data'
 import { post as stay_confident_and_dry_my_honest_review_of_poise_pads } from './stay-confident-and-dry-my-honest-review-of-poise-pads.data'
 import { post as peace_of_mind_why_infant_optics_monitor_is_the_ultimate_baby } from './peace-of-mind-why-infant-optics-monitor-is-the-ultimate-baby.data'
+import { post as travel_smart_with_chicco_bravo_the_ultimate_parenting_game_c } from './travel-smart-with-chicco-bravo-the-ultimate-parenting-game-c.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  travel_smart_with_chicco_bravo_the_ultimate_parenting_game_c,
   peace_of_mind_why_infant_optics_monitor_is_the_ultimate_baby,
   stay_confident_and_dry_my_honest_review_of_poise_pads,
   stay_dry_and_confident_nursing_pads_that_change_the_game,
