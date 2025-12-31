@@ -33,9 +33,11 @@ import { post as snack_smarter_how_the_squeasy_snacker_pouch_transforms_on_th } 
 import { post as elevate_your_comfort_the_magic_of_silver_nursing_cups_review } from './elevate-your-comfort-the-magic-of-silver-nursing-cups-review.data'
 import { post as unlock_the_magic_of_curls_a_review_of_kids_curl_shampoo } from './unlock-the-magic-of-curls-a-review-of-kids-curl-shampoo.data'
 import { post as say_goodbye_to_stinky_diapers_why_diaper_dekor_pail_is_a_gam } from './say-goodbye-to-stinky-diapers-why-diaper-dekor-pail-is-a-gam.data'
+import { post as why_huggies_newborn_diapers_are_the_ultimate_comfort_for_you } from './why-huggies-newborn-diapers-are-the-ultimate-comfort-for-you.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  why_huggies_newborn_diapers_are_the_ultimate_comfort_for_you,
   say_goodbye_to_stinky_diapers_why_diaper_dekor_pail_is_a_gam,
   unlock_the_magic_of_curls_a_review_of_kids_curl_shampoo,
   elevate_your_comfort_the_magic_of_silver_nursing_cups_review,
