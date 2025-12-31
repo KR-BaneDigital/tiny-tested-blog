@@ -46,9 +46,11 @@ import { post as prevail_underwear_comfort_and_confidence_for_every_day_wear } f
 import { post as slow_feeder_bowl_the_secret_to_savoring_every_bite_with_your } from './slow-feeder-bowl-the-secret-to-savoring-every-bite-with-your.data'
 import { post as stroller_organizer_your_ultimate_hack_for_stress_free_outing } from './stroller-organizer-your-ultimate-hack-for-stress-free-outing.data'
 import { post as stay_confident_and_dry_the_ultimate_incontinence_pads_review } from './stay-confident-and-dry-the-ultimate-incontinence-pads-review.data'
+import { post as elevate_your_space_the_bathroom_trash_can_that_transforms_ti } from './elevate-your-space-the-bathroom-trash-can-that-transforms-ti.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  elevate_your_space_the_bathroom_trash_can_that_transforms_ti,
   stay_confident_and_dry_the_ultimate_incontinence_pads_review,
   stroller_organizer_your_ultimate_hack_for_stress_free_outing,
   slow_feeder_bowl_the_secret_to_savoring_every_bite_with_your,
