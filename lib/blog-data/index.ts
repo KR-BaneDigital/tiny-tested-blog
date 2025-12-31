@@ -43,9 +43,11 @@ import { post as soft_on_baby_easy_on_the_planet_cloth_diapers_pack_review } fro
 import { post as embrace_comfort_and_style_the_ultimate_nursing_cover_review } from './embrace-comfort-and-style-the-ultimate-nursing-cover-review.data'
 import { post as mastering_nursing_in_style_the_breastfeeding_boss_cover_revi } from './mastering-nursing-in-style-the-breastfeeding-boss-cover-revi.data'
 import { post as lemme_purr_gummies_your_sweet_secret_to_stress_free_serenity } from './lemme-purr-gummies-your-sweet-secret-to-stress-free-serenity.data'
+import { post as unlock_radiance_discover_the_magic_of_glimmering_skin_serum } from './unlock-radiance-discover-the-magic-of-glimmering-skin-serum.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  unlock_radiance_discover_the_magic_of_glimmering_skin_serum,
   lemme_purr_gummies_your_sweet_secret_to_stress_free_serenity,
   mastering_nursing_in_style_the_breastfeeding_boss_cover_revi,
   embrace_comfort_and_style_the_ultimate_nursing_cover_review,
