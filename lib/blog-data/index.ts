@@ -47,9 +47,11 @@ import { post as unlock_radiance_discover_the_magic_of_glimmering_skin_serum } f
 import { post as prevail_underwear_comfort_and_confidence_for_every_day_wear } from './prevail-underwear-comfort-and-confidence-for-every-day-wear.data'
 import { post as slow_feeder_bowl_the_secret_to_savoring_every_bite_with_your } from './slow-feeder-bowl-the-secret-to-savoring-every-bite-with-your.data'
 import { post as stroller_organizer_your_ultimate_hack_for_stress_free_outing } from './stroller-organizer-your-ultimate-hack-for-stress-free-outing.data'
+import { post as stay_confident_and_dry_the_ultimate_incontinence_pads_review } from './stay-confident-and-dry-the-ultimate-incontinence-pads-review.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  stay_confident_and_dry_the_ultimate_incontinence_pads_review,
   stroller_organizer_your_ultimate_hack_for_stress_free_outing,
   slow_feeder_bowl_the_secret_to_savoring_every_bite_with_your,
   prevail_underwear_comfort_and_confidence_for_every_day_wear,
