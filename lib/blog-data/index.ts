@@ -53,9 +53,11 @@ import { post as unlock_comfort_and_style_the_muslin_nursing_cover_you_need } fr
 import { post as why_mama_koala_diapers_are_the_ultimate_game_changer_for_par } from './why-mama-koala-diapers-are-the-ultimate-game-changer-for-par.data'
 import { post as master_mealtime_how_toddler_utensils_set_makes_dining_fun } from './master-mealtime-how-toddler-utensils-set-makes-dining-fun.data'
 import { post as stroller_bag_bliss_elevate_your_parenting_game_on_the_go } from './stroller-bag-bliss-elevate-your-parenting-game-on-the-go.data'
+import { post as say_goodbye_to_odors_nappy_pail_s_game_changing_diaper_solut } from './say-goodbye-to-odors-nappy-pail-s-game-changing-diaper-solut.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  say_goodbye_to_odors_nappy_pail_s_game_changing_diaper_solut,
   stroller_bag_bliss_elevate_your_parenting_game_on_the_go,
   master_mealtime_how_toddler_utensils_set_makes_dining_fun,
   why_mama_koala_diapers_are_the_ultimate_game_changer_for_par,
