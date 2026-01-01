@@ -62,9 +62,11 @@ import { post as cradle_comfort_how_this_nursing_pillow_transforms_feeding_ti } 
 import { post as unlock_your_feminine_health_the_power_of_vaginal_probiotics_ } from './unlock-your-feminine-health-the-power-of-vaginal-probiotics-.data'
 import { post as elevated_dog_bowls_elevate_your_pup_s_dining_experience_toda } from './elevated-dog-bowls-elevate-your-pup-s-dining-experience-toda.data'
 import { post as reel_in_the_big_ones_why_the_inline_method_feeder_set_is_a_g } from './reel-in-the-big-ones-why-the-inline-method-feeder-set-is-a-g.data'
+import { post as turn_mealtime_into_playtime_woof_lickmat_review_for_happy_do } from './turn-mealtime-into-playtime-woof-lickmat-review-for-happy-do.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  turn_mealtime_into_playtime_woof_lickmat_review_for_happy_do,
   reel_in_the_big_ones_why_the_inline_method_feeder_set_is_a_g,
   elevated_dog_bowls_elevate_your_pup_s_dining_experience_toda,
   unlock_your_feminine_health_the_power_of_vaginal_probiotics_,
