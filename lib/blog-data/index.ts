@@ -60,9 +60,11 @@ import { post as go_green_and_save_the_life_changing_benefits_of_reusable_clo } 
 import { post as stay_hydrated_the_dog_water_bowl_every_pet_owner_needs } from './stay-hydrated-the-dog-water-bowl-every-pet-owner-needs.data'
 import { post as cradle_comfort_how_this_nursing_pillow_transforms_feeding_ti } from './cradle-comfort-how-this-nursing-pillow-transforms-feeding-ti.data'
 import { post as unlock_your_feminine_health_the_power_of_vaginal_probiotics_ } from './unlock-your-feminine-health-the-power-of-vaginal-probiotics-.data'
+import { post as elevated_dog_bowls_elevate_your_pup_s_dining_experience_toda } from './elevated-dog-bowls-elevate-your-pup-s-dining-experience-toda.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  elevated_dog_bowls_elevate_your_pup_s_dining_experience_toda,
   unlock_your_feminine_health_the_power_of_vaginal_probiotics_,
   cradle_comfort_how_this_nursing_pillow_transforms_feeding_ti,
   stay_hydrated_the_dog_water_bowl_every_pet_owner_needs,
