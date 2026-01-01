@@ -73,9 +73,11 @@ import { post as unlock_gut_health_why_clairvee_probiotic_is_a_game_changer } fr
 import { post as elevate_your_space_why_this_bathroom_trash_can_is_a_must_hav } from './elevate-your-space-why-this-bathroom-trash-can-is-a-must-hav.data'
 import { post as travel_feeding_set_the_ultimate_solution_for_mess_free_mealt } from './travel-feeding-set-the-ultimate-solution-for-mess-free-mealt.data'
 import { post as unlock_gorgeous_hair_why_babo_botanicals_shampoo_is_a_game_c } from './unlock-gorgeous-hair-why-babo-botanicals-shampoo-is-a-game-c.data'
+import { post as revitalize_your_printer_bch_paper_feed_gear_for_seamless_pri } from './revitalize-your-printer-bch-paper-feed-gear-for-seamless-pri.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  revitalize_your_printer_bch_paper_feed_gear_for_seamless_pri,
   unlock_gorgeous_hair_why_babo_botanicals_shampoo_is_a_game_c,
   travel_feeding_set_the_ultimate_solution_for_mess_free_mealt,
   elevate_your_space_why_this_bathroom_trash_can_is_a_must_hav,
