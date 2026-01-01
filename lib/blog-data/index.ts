@@ -52,9 +52,11 @@ import { post as depend_diapers_unlock_confidence_and_comfort_for_every_momen } 
 import { post as unlock_comfort_and_style_the_muslin_nursing_cover_you_need } from './unlock-comfort-and-style-the-muslin-nursing-cover-you-need.data'
 import { post as why_mama_koala_diapers_are_the_ultimate_game_changer_for_par } from './why-mama-koala-diapers-are-the-ultimate-game-changer-for-par.data'
 import { post as master_mealtime_how_toddler_utensils_set_makes_dining_fun } from './master-mealtime-how-toddler-utensils-set-makes-dining-fun.data'
+import { post as stroller_bag_bliss_elevate_your_parenting_game_on_the_go } from './stroller-bag-bliss-elevate-your-parenting-game-on-the-go.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  stroller_bag_bliss_elevate_your_parenting_game_on_the_go,
   master_mealtime_how_toddler_utensils_set_makes_dining_fun,
   why_mama_koala_diapers_are_the_ultimate_game_changer_for_par,
   unlock_comfort_and_style_the_muslin_nursing_cover_you_need,
