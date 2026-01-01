@@ -75,9 +75,11 @@ import { post as travel_feeding_set_the_ultimate_solution_for_mess_free_mealt } 
 import { post as unlock_gorgeous_hair_why_babo_botanicals_shampoo_is_a_game_c } from './unlock-gorgeous-hair-why-babo-botanicals-shampoo-is-a-game-c.data'
 import { post as revitalize_your_printer_bch_paper_feed_gear_for_seamless_pri } from './revitalize-your-printer-bch-paper-feed-gear-for-seamless-pri.data'
 import { post as why_prefold_cloth_diapers_are_the_eco_friendly_game_changer_ } from './why-prefold-cloth-diapers-are-the-eco-friendly-game-changer-.data'
+import { post as sleep_soundly_tena_overnight_underwear_for_worry_free_nights } from './sleep-soundly-tena-overnight-underwear-for-worry-free-nights.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  sleep_soundly_tena_overnight_underwear_for_worry_free_nights,
   why_prefold_cloth_diapers_are_the_eco_friendly_game_changer_,
   revitalize_your_printer_bch_paper_feed_gear_for_seamless_pri,
   unlock_gorgeous_hair_why_babo_botanicals_shampoo_is_a_game_c,
