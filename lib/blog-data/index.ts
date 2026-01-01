@@ -58,9 +58,11 @@ import { post as from_infant_to_toddler_the_grow_and_go_car_seat_that_grows_w } 
 import { post as experience_ultimate_comfort_always_cotton_pads_for_your_best } from './experience-ultimate-comfort-always-cotton-pads-for-your-best.data'
 import { post as go_green_and_save_the_life_changing_benefits_of_reusable_clo } from './go-green-and-save-the-life-changing-benefits-of-reusable-clo.data'
 import { post as stay_hydrated_the_dog_water_bowl_every_pet_owner_needs } from './stay-hydrated-the-dog-water-bowl-every-pet-owner-needs.data'
+import { post as cradle_comfort_how_this_nursing_pillow_transforms_feeding_ti } from './cradle-comfort-how-this-nursing-pillow-transforms-feeding-ti.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  cradle_comfort_how_this_nursing_pillow_transforms_feeding_ti,
   stay_hydrated_the_dog_water_bowl_every_pet_owner_needs,
   go_green_and_save_the_life_changing_benefits_of_reusable_clo,
   experience_ultimate_comfort_always_cotton_pads_for_your_best,
