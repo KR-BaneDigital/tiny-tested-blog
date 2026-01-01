@@ -64,9 +64,11 @@ import { post as elevated_dog_bowls_elevate_your_pup_s_dining_experience_toda } 
 import { post as reel_in_the_big_ones_why_the_inline_method_feeder_set_is_a_g } from './reel-in-the-big-ones-why-the-inline-method-feeder-set-is-a-g.data'
 import { post as turn_mealtime_into_playtime_woof_lickmat_review_for_happy_do } from './turn-mealtime-into-playtime-woof-lickmat-review-for-happy-do.data'
 import { post as say_goodbye_to_messes_the_dog_diapers_that_save_your_sanity } from './say-goodbye-to-messes-the-dog-diapers-that-save-your-sanity.data'
+import { post as mess_free_mealtime_how_the_dog_food_mat_transforms_feeding_t } from './mess-free-mealtime-how-the-dog-food-mat-transforms-feeding-t.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  mess_free_mealtime_how_the_dog_food_mat_transforms_feeding_t,
   say_goodbye_to_messes_the_dog_diapers_that_save_your_sanity,
   turn_mealtime_into_playtime_woof_lickmat_review_for_happy_do,
   reel_in_the_big_ones_why_the_inline_method_feeder_set_is_a_g,
