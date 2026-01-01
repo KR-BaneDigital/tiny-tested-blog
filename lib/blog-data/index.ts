@@ -61,9 +61,11 @@ import { post as stay_hydrated_the_dog_water_bowl_every_pet_owner_needs } from '
 import { post as cradle_comfort_how_this_nursing_pillow_transforms_feeding_ti } from './cradle-comfort-how-this-nursing-pillow-transforms-feeding-ti.data'
 import { post as unlock_your_feminine_health_the_power_of_vaginal_probiotics_ } from './unlock-your-feminine-health-the-power-of-vaginal-probiotics-.data'
 import { post as elevated_dog_bowls_elevate_your_pup_s_dining_experience_toda } from './elevated-dog-bowls-elevate-your-pup-s-dining-experience-toda.data'
+import { post as reel_in_the_big_ones_why_the_inline_method_feeder_set_is_a_g } from './reel-in-the-big-ones-why-the-inline-method-feeder-set-is-a-g.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  reel_in_the_big_ones_why_the_inline_method_feeder_set_is_a_g,
   elevated_dog_bowls_elevate_your_pup_s_dining_experience_toda,
   unlock_your_feminine_health_the_power_of_vaginal_probiotics_,
   cradle_comfort_how_this_nursing_pillow_transforms_feeding_ti,
