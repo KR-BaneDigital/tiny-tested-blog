@@ -67,9 +67,11 @@ import { post as say_goodbye_to_messes_the_dog_diapers_that_save_your_sanity } f
 import { post as mess_free_mealtime_how_the_dog_food_mat_transforms_feeding_t } from './mess-free-mealtime-how-the-dog-food-mat-transforms-feeding-t.data'
 import { post as say_goodbye_to_leaks_why_pura_diapers_are_a_game_changer } from './say-goodbye-to-leaks-why-pura-diapers-are-a-game-changer.data'
 import { post as master_meal_prep_freeze_n_feed_combo_revolutionizes_your_kit } from './master-meal-prep-freeze-n-feed-combo-revolutionizes-your-kit.data'
+import { post as unlock_tangle_free_joy_kids_hair_care_set_review_for_happy_h } from './unlock-tangle-free-joy-kids-hair-care-set-review-for-happy-h.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  unlock_tangle_free_joy_kids_hair_care_set_review_for_happy_h,
   master_meal_prep_freeze_n_feed_combo_revolutionizes_your_kit,
   say_goodbye_to_leaks_why_pura_diapers_are_a_game_changer,
   mess_free_mealtime_how_the_dog_food_mat_transforms_feeding_t,
