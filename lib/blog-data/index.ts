@@ -70,9 +70,11 @@ import { post as master_meal_prep_freeze_n_feed_combo_revolutionizes_your_kit } 
 import { post as unlock_tangle_free_joy_kids_hair_care_set_review_for_happy_h } from './unlock-tangle-free-joy-kids-hair-care-set-review-for-happy-h.data'
 import { post as why_cloth_diapers_set_is_the_eco_friendly_game_changer_for_p } from './why-cloth-diapers-set-is-the-eco-friendly-game-changer-for-p.data'
 import { post as unlock_gut_health_why_clairvee_probiotic_is_a_game_changer } from './unlock-gut-health-why-clairvee-probiotic-is-a-game-changer.data'
+import { post as elevate_your_space_why_this_bathroom_trash_can_is_a_must_hav } from './elevate-your-space-why-this-bathroom-trash-can-is-a-must-hav.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  elevate_your_space_why_this_bathroom_trash_can_is_a_must_hav,
   unlock_gut_health_why_clairvee_probiotic_is_a_game_changer,
   why_cloth_diapers_set_is_the_eco_friendly_game_changer_for_p,
   unlock_tangle_free_joy_kids_hair_care_set_review_for_happy_h,
