@@ -90,9 +90,11 @@ import { post as cloth_diapers_the_eco_friendly_choice_that_saves_you_money } fr
 import { post as graco_4ever_car_seat_the_ultimate_safety_upgrade_for_growing } from './graco-4ever-car-seat-the-ultimate-safety-upgrade-for-growing.data'
 import { post as birdseye_cloth_diapers_the_eco_friendly_change_your_baby_wil } from './birdseye-cloth-diapers-the-eco-friendly-change-your-baby-wil.data'
 import { post as graco_modes_pramette_the_game_changer_for_stylish_parenting_ } from './graco-modes-pramette-the-game-changer-for-stylish-parenting-.data'
+import { post as sleep_peacefully_how_the_infant_optics_monitor_transforms_ba } from './sleep-peacefully-how-the-infant-optics-monitor-transforms-ba.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  sleep_peacefully_how_the_infant_optics_monitor_transforms_ba,
   graco_modes_pramette_the_game_changer_for_stylish_parenting_,
   birdseye_cloth_diapers_the_eco_friendly_change_your_baby_wil,
   graco_4ever_car_seat_the_ultimate_safety_upgrade_for_growing,
