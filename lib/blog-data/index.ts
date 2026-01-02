@@ -93,9 +93,11 @@ import { post as discover_the_comfort_why_organic_flat_diapers_are_a_game_cha } 
 import { post as scrub_a_dub_fun_why_kids_soap_makes_bath_time_a_joy } from './scrub-a-dub-fun-why-kids-soap-makes-bath-time-a-joy.data'
 import { post as baby_wipes_the_ultimate_clean_up_crew_for_messy_moments } from './baby-wipes-the-ultimate-clean-up-crew-for-messy-moments.data'
 import { post as ultra_plus_briefs_comfort_redefined_for_all_day_confidence } from './ultra-plus-briefs-comfort-redefined-for-all-day-confidence.data'
+import { post as why_sunkiss_diapers_are_the_game_changer_your_baby_s_bottom_ } from './why-sunkiss-diapers-are-the-game-changer-your-baby-s-bottom-.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  why_sunkiss_diapers_are_the_game_changer_your_baby_s_bottom_,
   ultra_plus_briefs_comfort_redefined_for_all_day_confidence,
   baby_wipes_the_ultimate_clean_up_crew_for_messy_moments,
   scrub_a_dub_fun_why_kids_soap_makes_bath_time_a_joy,
