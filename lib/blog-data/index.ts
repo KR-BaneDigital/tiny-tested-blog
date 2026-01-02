@@ -94,9 +94,11 @@ import { post as scrub_a_dub_fun_why_kids_soap_makes_bath_time_a_joy } from './s
 import { post as baby_wipes_the_ultimate_clean_up_crew_for_messy_moments } from './baby-wipes-the-ultimate-clean-up-crew-for-messy-moments.data'
 import { post as ultra_plus_briefs_comfort_redefined_for_all_day_confidence } from './ultra-plus-briefs-comfort-redefined-for-all-day-confidence.data'
 import { post as why_sunkiss_diapers_are_the_game_changer_your_baby_s_bottom_ } from './why-sunkiss-diapers-are-the-game-changer-your-baby-s-bottom-.data'
+import { post as bounce_back_to_bliss_how_bouncer_bliss_transforms_your_curls } from './bounce-back-to-bliss-how-bouncer-bliss-transforms-your-curls.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  bounce_back_to_bliss_how_bouncer_bliss_transforms_your_curls,
   why_sunkiss_diapers_are_the_game_changer_your_baby_s_bottom_,
   ultra_plus_briefs_comfort_redefined_for_all_day_confidence,
   baby_wipes_the_ultimate_clean_up_crew_for_messy_moments,
