@@ -89,9 +89,11 @@ import { post as unlock_adventure_how_feed_dog_gear_transforms_your_outdoor_e } 
 import { post as cloth_diapers_the_eco_friendly_choice_that_saves_you_money } from './cloth-diapers-the-eco-friendly-choice-that-saves-you-money.data'
 import { post as graco_4ever_car_seat_the_ultimate_safety_upgrade_for_growing } from './graco-4ever-car-seat-the-ultimate-safety-upgrade-for-growing.data'
 import { post as birdseye_cloth_diapers_the_eco_friendly_change_your_baby_wil } from './birdseye-cloth-diapers-the-eco-friendly-change-your-baby-wil.data'
+import { post as graco_modes_pramette_the_game_changer_for_stylish_parenting_ } from './graco-modes-pramette-the-game-changer-for-stylish-parenting-.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  graco_modes_pramette_the_game_changer_for_stylish_parenting_,
   birdseye_cloth_diapers_the_eco_friendly_change_your_baby_wil,
   graco_4ever_car_seat_the_ultimate_safety_upgrade_for_growing,
   cloth_diapers_the_eco_friendly_choice_that_saves_you_money,
