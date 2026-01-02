@@ -91,9 +91,11 @@ import { post as graco_4ever_car_seat_the_ultimate_safety_upgrade_for_growing } 
 import { post as birdseye_cloth_diapers_the_eco_friendly_change_your_baby_wil } from './birdseye-cloth-diapers-the-eco-friendly-change-your-baby-wil.data'
 import { post as graco_modes_pramette_the_game_changer_for_stylish_parenting_ } from './graco-modes-pramette-the-game-changer-for-stylish-parenting-.data'
 import { post as sleep_peacefully_how_the_infant_optics_monitor_transforms_ba } from './sleep-peacefully-how-the-infant-optics-monitor-transforms-ba.data'
+import { post as revive_your_hair_routine_the_magic_of_2_in_1_shampoo_unleash } from './revive-your-hair-routine-the-magic-of-2-in-1-shampoo-unleash.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  revive_your_hair_routine_the_magic_of_2_in_1_shampoo_unleash,
   sleep_peacefully_how_the_infant_optics_monitor_transforms_ba,
   graco_modes_pramette_the_game_changer_for_stylish_parenting_,
   birdseye_cloth_diapers_the_eco_friendly_change_your_baby_wil,
