@@ -260,8 +260,8 @@ export default function BlogPost() {
         "category": "Connection Reliability"
       }
     ],
-    "customerReviews": "null",
-    "methodologyNote": "null",
+    "customerReviews": [],
+    "methodologyNote": "Testing conducted over 6 months with real parents in home environments",
     "testingDuration": "6-Month",
     "whatMakesDifferent": [
       {

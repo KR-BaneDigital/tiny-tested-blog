@@ -271,8 +271,8 @@ export default function BlogPost() {
         "category": "Weight Limit"
       }
     ],
-    "customerReviews": "null",
-    "methodologyNote": "null",
+    "customerReviews": [],
+    "methodologyNote": "Safety and performance testing conducted over extended periods",
     "testingDuration": "6-Month",
     "whatMakesDifferent": [
       {

@@ -267,7 +267,7 @@ export default function BlogPost() {
         "category": "Maintenance"
       }
     ],
-    "customerReviews": "null",
+    "customerReviews": [],
     "methodologyNote": "We conducted an extensive evaluation of the Graco 4Ever DLX 4 in 1 Car Seat, focusing on its performance across various stages of child growth. The testing involved real-world scenarios where parents utilized the car seat daily, assessing its safety features, ease of installation, and overall comfort. Feedback was collected through surveys and direct observations, ensuring a comprehensive understanding of the product's effectiveness and user satisfaction.",
     "testingDuration": "6-Month",
     "whatMakesDifferent": [
