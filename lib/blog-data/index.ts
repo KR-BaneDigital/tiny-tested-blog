@@ -87,7 +87,6 @@ import { post as sensitive_diapers_the_ultimate_comfort_for_your_baby_s_delic } 
 import { post as overnight_underwear_say_goodbye_to_midnight_mishaps } from './overnight-underwear-say-goodbye-to-midnight-mishaps.data'
 import { post as unlock_adventure_how_feed_dog_gear_transforms_your_outdoor_e } from './unlock-adventure-how-feed-dog-gear-transforms-your-outdoor-e.data'
 import { post as cloth_diapers_the_eco_friendly_choice_that_saves_you_money } from './cloth-diapers-the-eco-friendly-choice-that-saves-you-money.data'
-import { post as graco_4ever_car_seat_the_ultimate_safety_upgrade_for_growing } from './graco-4ever-car-seat-the-ultimate-safety-upgrade-for-growing.data'
 import { post as birdseye_cloth_diapers_the_eco_friendly_change_your_baby_wil } from './birdseye-cloth-diapers-the-eco-friendly-change-your-baby-wil.data'
 import { post as revive_your_hair_routine_the_magic_of_2_in_1_shampoo_unleash } from './revive-your-hair-routine-the-magic-of-2-in-1-shampoo-unleash.data'
 
@@ -95,7 +94,6 @@ import { post as revive_your_hair_routine_the_magic_of_2_in_1_shampoo_unleash } 
 export const allPosts = [
   revive_your_hair_routine_the_magic_of_2_in_1_shampoo_unleash,
   birdseye_cloth_diapers_the_eco_friendly_change_your_baby_wil,
-  graco_4ever_car_seat_the_ultimate_safety_upgrade_for_growing,
   cloth_diapers_the_eco_friendly_choice_that_saves_you_money,
   unlock_adventure_how_feed_dog_gear_transforms_your_outdoor_e,
   overnight_underwear_say_goodbye_to_midnight_mishaps,
