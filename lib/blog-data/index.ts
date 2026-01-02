@@ -81,9 +81,11 @@ import { post as unleash_cleanliness_discover_the_magic_of_baby_wipes_for_eve } 
 import { post as leekalos_cloth_diapers_eco_friendly_comfort_for_your_little_ } from './leekalos-cloth-diapers-eco-friendly-comfort-for-your-little-.data'
 import { post as unleash_versatility_how_the_dg_select_pail_elevates_every_ta } from './unleash-versatility-how-the-dg-select-pail-elevates-every-ta.data'
 import { post as say_goodbye_to_leaks_fitright_diapers_for_ultimate_baby_comf } from './say-goodbye-to-leaks-fitright-diapers-for-ultimate-baby-comf.data'
+import { post as elevate_mealtime_why_this_dog_bowl_set_transforms_feeding_ti } from './elevate-mealtime-why-this-dog-bowl-set-transforms-feeding-ti.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  elevate_mealtime_why_this_dog_bowl_set_transforms_feeding_ti,
   say_goodbye_to_leaks_fitright_diapers_for_ultimate_baby_comf,
   unleash_versatility_how_the_dg_select_pail_elevates_every_ta,
   leekalos_cloth_diapers_eco_friendly_comfort_for_your_little_,
