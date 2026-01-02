@@ -96,9 +96,11 @@ import { post as ultra_plus_briefs_comfort_redefined_for_all_day_confidence } fr
 import { post as why_sunkiss_diapers_are_the_game_changer_your_baby_s_bottom_ } from './why-sunkiss-diapers-are-the-game-changer-your-baby-s-bottom-.data'
 import { post as bounce_back_to_bliss_how_bouncer_bliss_transforms_your_curls } from './bounce-back-to-bliss-how-bouncer-bliss-transforms-your-curls.data'
 import { post as unlock_clean_confidence_the_junior_cleansing_shampoo_review } from './unlock-clean-confidence-the-junior-cleansing-shampoo-review.data'
+import { post as switch_to_reusable_cloth_diapers_save_cash_go_green_effortle } from './switch-to-reusable-cloth-diapers-save-cash-go-green-effortle.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  switch_to_reusable_cloth_diapers_save_cash_go_green_effortle,
   unlock_clean_confidence_the_junior_cleansing_shampoo_review,
   bounce_back_to_bliss_how_bouncer_bliss_transforms_your_curls,
   why_sunkiss_diapers_are_the_game_changer_your_baby_s_bottom_,
