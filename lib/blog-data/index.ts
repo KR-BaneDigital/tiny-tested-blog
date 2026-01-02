@@ -77,9 +77,11 @@ import { post as revitalize_your_printer_bch_paper_feed_gear_for_seamless_pri } 
 import { post as why_prefold_cloth_diapers_are_the_eco_friendly_game_changer_ } from './why-prefold-cloth-diapers-are-the-eco-friendly-game-changer-.data'
 import { post as sleep_soundly_tena_overnight_underwear_for_worry_free_nights } from './sleep-soundly-tena-overnight-underwear-for-worry-free-nights.data'
 import { post as unlock_3d_printing_potential_the_3dman_dual_gear_extruder_re } from './unlock-3d-printing-potential-the-3dman-dual-gear-extruder-re.data'
+import { post as unleash_cleanliness_discover_the_magic_of_baby_wipes_for_eve } from './unleash-cleanliness-discover-the-magic-of-baby-wipes-for-eve.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  unleash_cleanliness_discover_the_magic_of_baby_wipes_for_eve,
   unlock_3d_printing_potential_the_3dman_dual_gear_extruder_re,
   sleep_soundly_tena_overnight_underwear_for_worry_free_nights,
   why_prefold_cloth_diapers_are_the_eco_friendly_game_changer_,
