@@ -92,9 +92,11 @@ import { post as revive_your_hair_routine_the_magic_of_2_in_1_shampoo_unleash } 
 import { post as discover_the_comfort_why_organic_flat_diapers_are_a_game_cha } from './discover-the-comfort-why-organic-flat-diapers-are-a-game-cha.data'
 import { post as scrub_a_dub_fun_why_kids_soap_makes_bath_time_a_joy } from './scrub-a-dub-fun-why-kids-soap-makes-bath-time-a-joy.data'
 import { post as baby_wipes_the_ultimate_clean_up_crew_for_messy_moments } from './baby-wipes-the-ultimate-clean-up-crew-for-messy-moments.data'
+import { post as ultra_plus_briefs_comfort_redefined_for_all_day_confidence } from './ultra-plus-briefs-comfort-redefined-for-all-day-confidence.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  ultra_plus_briefs_comfort_redefined_for_all_day_confidence,
   baby_wipes_the_ultimate_clean_up_crew_for_messy_moments,
   scrub_a_dub_fun_why_kids_soap_makes_bath_time_a_joy,
   discover_the_comfort_why_organic_flat_diapers_are_a_game_cha,
