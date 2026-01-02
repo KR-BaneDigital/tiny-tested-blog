@@ -84,9 +84,11 @@ import { post as say_goodbye_to_leaks_fitright_diapers_for_ultimate_baby_comf } 
 import { post as elevate_mealtime_why_this_dog_bowl_set_transforms_feeding_ti } from './elevate-mealtime-why-this-dog-bowl-set-transforms-feeding-ti.data'
 import { post as graco_4ever_dlx_the_ultimate_car_seat_for_growing_families } from './graco-4ever-dlx-the-ultimate-car-seat-for-growing-families.data'
 import { post as sensitive_diapers_the_ultimate_comfort_for_your_baby_s_delic } from './sensitive-diapers-the-ultimate-comfort-for-your-baby-s-delic.data'
+import { post as overnight_underwear_say_goodbye_to_midnight_mishaps } from './overnight-underwear-say-goodbye-to-midnight-mishaps.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  overnight_underwear_say_goodbye_to_midnight_mishaps,
   sensitive_diapers_the_ultimate_comfort_for_your_baby_s_delic,
   graco_4ever_dlx_the_ultimate_car_seat_for_growing_families,
   elevate_mealtime_why_this_dog_bowl_set_transforms_feeding_ti,
