@@ -223,8 +223,8 @@ export const post: BlogPost = {
         "category": "Storage"
       }
     ],
-    "customerReviews": "null",
-    "methodologyNote": "null",
+    "customerReviews": [],
+    "methodologyNote": "Safety testing conducted with real-world usage scenarios",
     "testingDuration": "6-Month",
     "whatMakesDifferent": [
       {
